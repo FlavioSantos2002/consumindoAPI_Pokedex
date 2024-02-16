@@ -1,0 +1,52 @@
+#pokeImg {
+    text-align: center;
+}
+
+div ol#about {
+    background-color: rgba(43, 234, 247, 0.597);
+    columns: 2;
+    margin: 0;
+    width: min-content;
+    list-style-type: none;
+    list-style-type: none;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
+
+div ol#about li {
+
+    color: white;
+    position: relative;
+    left: 20%;
+    display: block;
+    width: max-content;
+    padding: 1em;
+}
+
+
+/* @media screen and (min-width: 600px) {
+
+    div ol#about,
+    #graficoDeBarras {
+        width: 500px;
+    }
+
+} */
+
+.centro ol {
+    display: inline-block;
+    text-align: left;
+    /* Para alinhar o texto à esquerda dentro da lista */
+}
+
+.centro {
+    text-align: center;
+}
+
+#pokeclicado li{
+
+}

@@ -1,0 +1,41 @@
+#btnCarregarMenos {
+    /* Defina as propriedades para dar a aparência de um botão */
+    
+    background-color: #3498db;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    /* margin-left: 1em; */
+    font-size: 20px; 
+    border-radius: .5em;
+    
+    
+
+}
+
+#btnCarregarMais {
+    background-color: #3498db;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 1em;
+    font-size: 20px; 
+    border-radius: .5em;
+
+    position: absolute;
+    right: 0vw;
+}
+
+#saida{
+    position: absolute;
+    left: 50%;
+    /* bottom: 1em; */
+    margin-top: -2em;
+    color: wheat;
+    background: red;
+    padding: 1em;
+    font-size: 1.2em;
+    border-radius: 50%;
+}
